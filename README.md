@@ -13,3 +13,9 @@ This project analyzes Amazon product sales data, including discount rates, ratin
   - Microsoft Excel.
   - Pivot Table
   
+## Visuals
+- Revenue by category
+- Average discount percentage by product category
+
+
+
